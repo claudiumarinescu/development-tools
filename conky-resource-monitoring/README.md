@@ -12,7 +12,7 @@ sudo apt install conky-all
 
 ## Add to startup applications
 
-1. Open _Startup Applications_
+1. Open _Startup Applications_ 
 2. Click _Add_ to add new startup application
 3. Enter a name for the app (ex: _System Monitoring_), and the full command to open Conky (`/usr/bin/conky`)
 4. Click _Add_ to save Conky as a startup application
