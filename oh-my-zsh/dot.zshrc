@@ -237,6 +237,7 @@ alias startApplication='cd ~/Desktop/workspace/de.idnow.application && sbt run'
 alias startVPN='sudo openfortivpn 89.149.59.90:33200 -u claudiu.marinescu -p ztJ2.kMTW7.B6b5YZa.s0DQ --trusted-cert=ec66b4fc3038fefb9289f201da890746712d768b1a730f7d383d53fdbc64ffeb'
 alias eq='qpaeq&'
 
+alias c='xclip -selection clipboard'
 
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK
